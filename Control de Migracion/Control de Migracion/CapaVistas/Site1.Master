@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Control_de_Migracion.CapaVistas.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="../Css/css_Menu.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Css/css_Menu.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+                        <details>
+  <summary></summary>
+  <nav class="menu">
+    <a href="Viajeros.aspx">Gestionar Viajeros</a>
+    <a href="Salidas.aspx">Salida Viajeros</a>
+    <a href="Llegadas.aspx">Llegada Viajeros</a>
+    <!-- <a href="Eliminar.aspx">Sin Uso</a>
+    <!-- <a href="gestion_usuarios.aspx">Gestionar Usuarios</a> -->
+    <!-- <a href="#link">About</a> -->
+  </nav>
+</details>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
+

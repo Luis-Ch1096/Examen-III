@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capavistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capavistas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capavistas\\viajeros.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capavistas\\viajeros.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capavistas\\viajeros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capavistas\\viajeros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capavistas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capavistas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capavistas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capavistas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capavistas\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capavistas\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capadatos\\cls_viajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capadatos\\cls_viajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\css\\css_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\css\\css_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\css\\css_menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\css\\css_menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|c:\\users\\luis\\documents\\upi\\ii cuatri 2024\\progra ll\\examen iii\\control de migracion\\control de migracion\\capadatos\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255174ED-0979-43E4-B3C7-8C4AC17EA1BD}|Control de Migracion\\Control de Migracion.csproj|solutionrelative:control de migracion\\capadatos\\cls_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Viajeros.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Viajeros.aspx.cs",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaVistas\\Viajeros.aspx.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Viajeros.aspx.cs",
+              "RelativeToolTip": "Control de Migracion\\CapaVistas\\Viajeros.aspx.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAApwEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:11:42.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Viajeros.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Viajeros.aspx",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaVistas\\Viajeros.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Viajeros.aspx",
+              "RelativeToolTip": "Control de Migracion\\CapaVistas\\Viajeros.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T02:51:13.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\Web.config",
+              "RelativeDocumentMoniker": "Control de Migracion\\Web.config",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\Web.config",
+              "RelativeToolTip": "Control de Migracion\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-21T02:49:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Inicio.aspx",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaVistas\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Inicio.aspx",
+              "RelativeToolTip": "Control de Migracion\\CapaVistas\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T02:44:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Site1.Master",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaVistas\\Site1.Master",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Site1.Master",
+              "RelativeToolTip": "Control de Migracion\\CapaVistas\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T02:29:59.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "css_Login.css",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CSS\\css_Login.css",
+              "RelativeDocumentMoniker": "Control de Migracion\\CSS\\css_Login.css",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CSS\\css_Login.css",
+              "RelativeToolTip": "Control de Migracion\\CSS\\css_Login.css",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T02:06:54.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Login.aspx",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaVistas\\Login.aspx",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Login.aspx",
+              "RelativeToolTip": "Control de Migracion\\CapaVistas\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-21T02:04:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaVistas\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaVistas\\Login.aspx.cs",
+              "RelativeToolTip": "Control de Migracion\\CapaVistas\\Login.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:13:12.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cls_Viajero.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaDatos\\cls_Viajero.cs",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaDatos\\cls_Viajero.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaDatos\\cls_Viajero.cs",
+              "RelativeToolTip": "Control de Migracion\\CapaDatos\\cls_Viajero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:10:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "css_Menu.css",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CSS\\css_Menu.css",
+              "RelativeDocumentMoniker": "Control de Migracion\\CSS\\css_Menu.css",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CSS\\css_Menu.css",
+              "RelativeToolTip": "Control de Migracion\\CSS\\css_Menu.css",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-21T02:43:22.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cls_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaDatos\\cls_Usuario.cs",
+              "RelativeDocumentMoniker": "Control de Migracion\\CapaDatos\\cls_Usuario.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\UPI\\II Cuatri 2024\\Progra ll\\Examen III\\Control de Migracion\\Control de Migracion\\CapaDatos\\cls_Usuario.cs",
+              "RelativeToolTip": "Control de Migracion\\CapaDatos\\cls_Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:08:33.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
